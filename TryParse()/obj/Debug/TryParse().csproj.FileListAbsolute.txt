@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\TryParse()\bin\Debug\TryParse().exe.config
+C:\Users\Elev\source\repos\TryParse()\bin\Debug\TryParse().exe
+C:\Users\Elev\source\repos\TryParse()\bin\Debug\TryParse().pdb
+C:\Users\Elev\source\repos\TryParse()\obj\Debug\TryParse().csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\TryParse()\obj\Debug\TryParse().csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\TryParse()\obj\Debug\TryParse().exe
+C:\Users\Elev\source\repos\TryParse()\obj\Debug\TryParse().pdb
